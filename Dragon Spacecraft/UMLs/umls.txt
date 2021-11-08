@@ -1,0 +1,1 @@
+We have put the UML diagrams in this folder since they are not clear in the Google docs
